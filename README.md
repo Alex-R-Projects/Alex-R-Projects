@@ -1,12 +1,44 @@
-- 👋 Hi, I’m Alejandro Reyes, and I'm currently in the process of getting my BS in Computer Science, and I'm proud to say I am at close to the finish line!
-- 👀 I’m interested in Data Analytics, finance, and technology overall, and just to be able to tell stories through discoveries. I believe that by making data-driven decisions we will be able to
-      live better lifes, while producing more results!
-- 🌱 I’m have experience programming in C++, R, and Python, but I'm always continously learning to imporve myself, and the products I deliver out
-  
-- 🎡🎢🎆 Aside from my professional side, I love spending time with my family, and friends off-roading, eating, and camping!
+## 👋 Hi, I’m Alejandro (Alex) Reyes
 
-- 📫 How to reach me: email: mralexreyes99@gmail.com, feel free to email me on suggestions on how to improve my projects, or any other questions
-      you may have. Thanks for visiting my profile!
+I’m a Computer Science graduate focused on **data analytics, finance, and building real-world systems** that turn raw information into meaningful insight. I love working at the intersection of **data, software, and decision-making**, where technical depth meets practical impact.
+
+---
+
+### 👀 What I’m Interested In
+- 📊 Data Analytics & Data Science  
+- 📈 Quantitative Finance & Risk Analysis  
+- 🤖 Applied Machine Learning & Automation  
+- 🧠 Turning complex data into clear, actionable stories  
+
+I’m a big believer in **data-driven decisions**, but not in the sense to get better numbers. What gets us the better outcome in the world!
+
+---
+
+### 🛠️ Tech I Work With
+- **Languages:** Python, R, C++, TypeScript  
+- **Data & ML:** Pandas, NumPy, PyTorch, statistical modeling, time-series analysis  
+- **Web & Systems:** React, Django, Flask, SQL, REST APIs  
+- **Tools:** Git, VS Code, Linux, Jupyter, RStudio  
+
+Always learning, always refining — I care just as much about *how* something is built as *what* it does.
+
+---
+
+### 🎢 Outside of Tech
+When I’m not coding or analyzing data, you’ll probably find me:
+- Off-roading 🚙  
+- Camping 🏕️  
+- Eating good food with family & friends 🍽️  
+
+Those experiences keep me grounded and fuel the creativity I bring back into my work.
+
+---
+
+### 📫 Get in Touch
+📧 **Email:** mralexreyes99@gmail.com  
+
+Feel free to reach out — whether it’s feedback on a project, collaboration ideas, or just a good technical discussion.  
+Thanks for stopping by!
 <!---
 Alex-R-Projects/Alex-R-Projects is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
