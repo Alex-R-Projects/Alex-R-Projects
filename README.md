@@ -4,7 +4,7 @@ I’m a Computer Science graduate focused on **data analytics, finance, and buil
 
 ---
 
-### 👀 What I’m Interested In
+### What I’m Interested In
 - 📊 Data Analytics & Data Science  
 - 📈 Quantitative Finance & Risk Analysis  
 - 🤖 Applied Machine Learning & Automation  
