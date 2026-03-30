@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Alejandro (Alex) Reyes
 
-I’m a Computer Science graduate focused on **data analytics, finance, and building real-world systems** that turn raw information into meaningful insight. I love working at the intersection of **data, software, and decision-making**, where technical depth meets practical impact.
+I’m a Computer Science graduate focused on **data analytics, finance, and building real-world systems** that turn raw information into meaningful insight. I love to develop products that function in the worlds of **data, and decision-making**, where technical depth meets practical applications! Even though I have graduated; I am still learning, and refining what I do, so if you have a sugguestion, or idea, I am all ears!
 
 ---
 
@@ -10,7 +10,7 @@ I’m a Computer Science graduate focused on **data analytics, finance, and buil
 - 🤖 Applied Machine Learning & Automation  
 - 🧠 Turning complex data into clear, actionable stories  
 
-I’m a big believer in **data-driven decisions**, but not in the sense to get better numbers. What gets us the better outcome in the world!
+I believe in **data-driven decisions**, but not in the sense to get better numbers. What gets us the better outcome in the world!
 
 ---
 
@@ -20,21 +20,21 @@ I’m a big believer in **data-driven decisions**, but not in the sense to get b
 - **Web & Systems:** React, Django, Flask, SQL, REST APIs  
 - **Tools:** Git, VS Code, Linux, Jupyter, RStudio  
 
-Always learning, always refining — I care just as much about *how* something is built as *what* it does.
 
 ---
 
 ### 🎢 Outside of Tech
-When I’m not coding or analyzing data, you’ll probably find me:
+When I’m not developing, you’ll probably find me:
 - Off-roading 🚙  
-- Camping 🏕️  
+- Camping 🏕️
+- Car Shows  
 - Eating good food with family & friends 🍽️  
 
 Those experiences keep me grounded and fuel the creativity I bring back into my work.
 
 ---
 
-### 📫 Get in Touch
+### 📫 Feel to Reach Out!
 📧 **Email:** mralexreyes99@gmail.com  
 
 Feel free to reach out — whether it’s feedback on a project, collaboration ideas, or just a good technical discussion.  
