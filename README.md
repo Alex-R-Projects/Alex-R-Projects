@@ -20,10 +20,6 @@
 I’m a Computer Science graduate focused on data analytics, finance, and building real-world systems that turn raw information into meaningful insight. I love to develop products that function in the worlds of data, and decision-making, where technical depth meets practical applications! Even though I have graduated; I am still learning, and refining what I do, so if you have a sugguestion, or idea, I am all ears!
 
 
-📫 Feel to Reach Out!
-Thank you for stopping by!
-
-
 
 Outside of tech I like:
 - Off-roading 🏁
@@ -33,7 +29,7 @@ Outside of tech I like:
 
 These experiences keep me grounded and fuel the creativity I bring back into my work.
 
-📫 Feel to Reach Out!
+ Feel to Reach Out!
 Thank you for stopping by!
 
 ## Tech Stack
